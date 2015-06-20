@@ -1,4 +1,4 @@
-package java.seach.paul.dco;
+package navig.seach.paul.dco;
 
 public class BjCityChinaTenCodeOnlineDoc {
 	/**
