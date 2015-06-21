@@ -3,7 +3,7 @@ package navig.seach.paul.massage;
 public class UserForm {
 	private String username;
 	private String password;
-	private String gender;
+	private int gender;
 	public String getUsername() {
 		return username;
 	}
@@ -16,10 +16,10 @@ public class UserForm {
 	public void setPassword(String password) {
 		this.password = password;
 	}
-	public String getGender() {
+	public int getGender() {
 		return gender;
 	}
-	public void setGender(String gender) {
+	public void setGender(int gender) {
 		this.gender = gender;
 	}
 	
