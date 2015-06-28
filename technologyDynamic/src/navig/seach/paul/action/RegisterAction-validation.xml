@@ -16,7 +16,7 @@
             </field-validator>  
         </field>  
           
-        <!-- 添加对密码的校验 -->  
+        <!-- 添加对密码的校验v1.0 -->  
         <field name="user.password">  
             <field-validator type="requiredstring">  
                 <param name="trim">true</param>  
