@@ -4,7 +4,7 @@
       
     <validators>  
 <!-- 验证文件RegisterAction-validation.xml的内容。该xml文件为RegisterAction的验证文件，命名格式固定，为< ActionName >-validation.xml -->
-        <!-- 添加对用户名的校验 -->  
+        <!-- 添加对用户名的校验v1.0 -->  
         <field name="user.username">  
             <field-validator type="requiredstring">  
                 <param name="trim">true</param>  
