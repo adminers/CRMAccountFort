@@ -8,7 +8,7 @@ import com.opensymphony.xwork2.ActionSupport;
 
 public class RegisterAction extends ActionSupport {
 	/**
-	 * 
+	 * myeclipse   版本跟新
 	 */
 	private static final long serialVersionUID = 1L;
 	private UserForm user;
